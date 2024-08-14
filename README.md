@@ -5,6 +5,7 @@ Application for parsing resume file for experience,organization,degree,skills an
 2) SentenceTransformer
 3) Flask
 4) Streamlit
+5) Spacy-transformer
 
 ## Running the Code
 
