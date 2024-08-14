@@ -7,6 +7,13 @@ Application for parsing resume file for experience,organization,degree,skills an
 4) Streamlit
 5) Spacy-transformer
 
+
+- Resume Parser parsed the resume to extract features such as tools(skills),experience,degree,organization details
+
+- Embedded the job descriptions using sentence transformer and used cosine similarity to compute similarity between resume parsed features and job descriptions
+to get the top 3 ranked jobs
+
+
 ## Running the Code
 
 1)download the model and unzip the model file
