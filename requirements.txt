@@ -1,0 +1,12 @@
+sentence-transformers
+cleantext
+pandas
+numpy
+scikit-learn
+flask
+streamlit
+requests
+datasets
+torch
+pypdf
+spacy-transformers
