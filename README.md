@@ -34,3 +34,14 @@ streamlit run app.py for frontend and loading resume parser
 Note:The Model can be further enhanced for performance for using in production environments.
 
 ## output
+
+![image](https://github.com/user-attachments/assets/3eb37ef8-b750-4534-b398-8e3e2a294e5e)
+
+![image](https://github.com/user-attachments/assets/51af99ab-c038-4cd2-93d9-1aeb7dc1c24d)
+
+![image](https://github.com/user-attachments/assets/3613b984-b91a-4296-baf4-4fc3bf8ec196)
+
+![image](https://github.com/user-attachments/assets/03ec76d9-597b-49a3-ae99-4513a38a2de0)
+
+
+
